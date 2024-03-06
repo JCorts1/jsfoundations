@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
-    "methods": "node methods.js"
+    "methods": "node methods.js",
+    "practice": "practice.js"
   },
   "author": "jay",
   "license": "ISC"
